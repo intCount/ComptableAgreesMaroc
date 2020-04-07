@@ -1,14 +1,5 @@
 FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key
-,,,Morocco,2020-03-28 23:05:25,31.7917,-7.0926,402,25,11,366
+,,,"Angle Bd. A. El Khattabi & Av. M. Eddahbi, n° 3, Appt. 14, 3ème étage,
+Guéliz, Marrakech",2020-03-28 23:05:25,31.7917,-7.0926,402,25,11,366, MCG Marrakech
 ,,BeniMellal-Khénifra​,Morocco,2020-03-28 23:05:25,32.344243,-6.376835,0502284422,,,,BeniMellal-Khénifra​
-,,Casa-Settat,Morocco,2020-03-28 23:05:25,33.589915,-7.590878,,,,Casa-Settat,Morocco
-,,Daraa-tafilalet,Morocco,2020-03-28 23:05:25,23.826044,-5.7998,32,,,,Daraa-tafilalet,Morocco
-,,Dakhla-Oued Ed Dahab,Morocco,2020-03-28 23:05:25,35.7673,-15.912007,32,,,,Dakhla-Oued Ed Dahab,Morocco
-,,Fès-meknes,Morocco,2020-03-28 23:05:25,34.019675,-5.009639,32,,,,Fès-meknes,Morocco
-,,Guelmim Oued Noun,Morocco,2020-03-28 23:05:25,29.096786,-10.045995,32,,,,Guelmim Oued Noun,Morocco
-,,Laâyoune-SakiaElHamra,Morocco,2020-03-28 23:05:25,27.241194,-13.154817,32,,,,Laâyoune-SakiaElHamra,Morocco
-,,Marrakech-Safi,Morocco,2020-03-28 23:05:25,31.781630,-8.034684,74,,,,Marrakech-Safi,Morocco
-,,Oriental,Morocco,2020-03-28 23:05:25,34.709479,-2.098870,32,,,,Oriental,Morocco
-,,Rabat-Salé-Kenitra,Morocco,2020-03-28 23:05:25,33.976032,-6.850742,32,,,,Rabat-Salé-Kenitra,Morocco
-,,Souss-Massa,Morocco,2020-03-28 23:05:25,30.485892,-9.593227,32,,,,Souss-Massa,Morocco
-,,Tanger-Tetouan-AlHoceima,Morocco,2020-03-28 23:05:25,35.871678,-5.799224,32,,,,Tanger-Tetouan-AlHoceima,Morocco
+
