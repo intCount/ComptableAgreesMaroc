@@ -1,8 +1,8 @@
 Id,Name,Region,Address,City,Last_Update,Lat,Long_,Phone,Whatsapp,Active
 1,intCount,"Tanger Medina","Avenue Youssef Ben tachfine Ibn Batouta, 90013",Tanger,2020-04-07,35.777482,-5.802106,"05 31074619/ 01",+212 6 02284421,Oui
-2,ELYACOUBI mohamadi,"Guéliz","Angle Bd. A. El Khattabi & Av. M. Eddahbi",Marrakech,2020-06-06,31.634831,-8.016709,"05 24437575/83",+212 6 02284421,Oui
-3,RHIRHAY Mohamed,"Guéliz","43, bd Hassan II, appt. 4",Marrakech,2020-06-03,31.631283,-8.011494,"05 24438986",+212 6 02284421,Oui
-4,Mohamed El Yazaji,"Tanger centre","5, bd Beethoven, imm Opera, 2°ét. n°13",Tanger,2020-06-01,35.775853,-5.799600,"05 39941108",+212 6 02284421,Oui
+2,RHIRHAY Mohamed,"Guéliz","43, bd Hassan II, appt. 4",Marrakech,2020-06-03,31.631283,-8.011494,"05 24438986",+212 6 02284421,Oui
+3,Mohamed El Yazaji,"Tanger centre","5, bd Beethoven, imm Opera, 2°ét. n°13",Tanger,2020-06-01,35.775853,-5.799600,"05 39941108",+212 6 61141516,Oui
+4,ACHCHAF Amina,"Route Safi","lots izdihar residence el mourabitine E 7 Marrakech", Marrakech, 2020-06-15,31.664133, -8.029479, "", +2126 02284421,Oui
 
 
 
