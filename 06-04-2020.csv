@@ -1,16 +1,16 @@
-Id,Name,Region,Address,City,Last_Update,Lat,Long_,Phone,Whatsapp,Active
-1,intCount,"Tanger Medina","Avenue Youssef Ben tachfine Ibn Batouta, 90013",Tanger,2020-04-07,35.777482,-5.802106,"0531074619",+212602284421,Oui
-2,RHIRHAY Mohamed,"Guéliz","     43, BD HASSAN II, APPT. 4",Marrakech,2020-06-03,31.631283,-8.011494,"0524438986",+212623782223,Oui
-3,Abdallah Idboumsaoud,"Casablanca","Bd ghandi numéro 193, apt 1",Casablanca,2020-08-06,33.570739,-7.645864,"0661163389",+212661163389,Oui 
-4,RAHMOUNI KHALID,"Mohammedia","Bd la resistance 1 wahda Appt. 1 mohammedia",Mohammedia,2020-08-07,33.678754,-7.388954,"0523321618",+212661744122,Oui
-5,El gueddari HICHAM,"Tanger","Résidence assedk rues Lahore et sayed kotb étage 1 no 19 Tanger",Tanger,2020-08-10,35.772701,-5.800594,"0663422232",+212663422232,Oui
-6,Bghiel Mohamed Kamal,"Tanger","9, Rue de Fes Tanger",Tanger,2020-08-11,35.779558,-5.813031,"0661170980",+212661170980,Oui
-7,Centre d'affaires ouhoud,"Kenitra","Angle bd mly Abdelziz et rue salah eddine résidence nour b bureau 4",Kenitra,2020-08-11,34.260988,-6.586549,"0663011068",+212619663368,Oui
-8,BOUAROUK Fouzi,"Rabat","RUE TANSIFT IMM 18 APPT 12 AGDAL RABAT",Rabat,2020-08-26,34.002754,-6.848238,"0537683864",+212661130188,Oui
-9,Danine abdelilah,"Casablanca","Imm L207 appart 3 Resid AL Amane AIn Sebaa Casablanca",Casablanca,2020-08-26,33.582485,-7.576182,"0615360306",+212615360306,Oui
-10,Boukannouf lahcen,"casablanca","Panorama bloc 2 imm b n 12 tr 4 Casablanca",casablanca,2020-08-26,33.603274,-7.491008,"0661486122",+212661486122,Oui
-11,ADIL ABBAD,"RABAT","17 RUE RABIA APT 2 AGDAL RABAT",RABAT,2020-08-26,34.001925,-6.849021,"0537683108",+212661303774,Oui
-12,BENLARABI Mohammed Ali,"Rabat","Avenue Ahmed Reda Guedira Résidence Zaitoun 9/C Hay Nahda Rabat",Rabat,2020-09-03,33.980128,-6.812257,"0661227544",+212661227544,Oui
+Id,Name,Region,Address,City,Last_Update,Lat,Long_,Phone,Whatsapp,Active,status
+1,intCount,"Tanger Medina","Avenue Youssef Ben tachfine Ibn Batouta, 90013",Tanger,2020-04-07,35.777482,-5.802106,"0531074619",+212602284421,Oui,true
+2,RHIRHAY Mohamed,"Guéliz","43, BD HASSAN II, APPT. 4",Marrakech,2020-06-03,31.631283,-8.011494,"0524438986",+212623782223,Oui,false
+3,Idboumsaoud abdallah,"Ichrak centre route el jadida","Ichrak centre route eljadida imm 27 3eme étage bureau 28",Casablanca,2020-11-05,33.518789,-7.694569,"0661163389",+212661163389,Oui,false
+4,RAHMOUNI KHALID,"Mohammedia","Bd la resistance 1 wahda Appt. 1 mohammedia",Mohammedia,2020-08-07,33.678754,-7.388954,"0523321618",+212661744122,Oui,false
+5,El gueddari HICHAM,"Tanger","Résidence assedk rues Lahore et sayed kotb étage 1 no 19 Tanger",Tanger,2020-08-10,35.772701,-5.800594,"0663422232",+212663422232,Oui,false
+6,Bghiel Mohamed Kamal,"09'rue de FES tanger","09'rue de FES Tanger",Tanger,2020-11-05,35.779558,-5.813031,"0661170980",+212661170980,Oui,false
+7,Centre d'affaires ouhoud,"Kenitra","Angle bd mly Abdelziz et rue salah eddine résidence nour b bureau 4",Kenitra,2020-08-11,34.260988,-6.586549,"0663011068",+212619663368,Oui,false
+8,BOUAROUK Fouzi,"Rabat","RUE TANSIFT IMM 18 APPT 12 AGDAL RABAT",Rabat,2020-08-26,34.002754,-6.848238,"0537683864",+212661130188,Oui,false
+9,Danine abdelilah,"Casablanca","Imm L207 appart 3 Resid AL Amane AIn Sebaa Casablanca",Casablanca,2020-08-26,33.582485,-7.576182,"0615360306",+212615360306,Oui,false
+10,Boukannouf lahcen,"casablanca","Panorama bloc 2 imm b n 12 tr 4 Casablanca",casablanca,2020-08-26,33.603274,-7.491008,"0661486122",+212661486122,Oui,false
+11,ADIL ABBAD,"RABAT","17 RUE RABIA APT 2 AGDAL RABAT",RABAT,2020-08-26,34.001925,-6.849021,"0537683108",+212661303774,Oui,false
+12,BENLARABI Mohammed Ali,"Rabat","Avenue Ahmed Reda Guedira Résidence Zaitoun 9/C Hay Nahda Rabat",Rabat,2020-09-03,33.980128,-6.812257,"0661227544",+212661227544,Oui,false
 
 
 
